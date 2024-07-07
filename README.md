@@ -43,9 +43,3 @@
   
 </div>
 
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/splendorgg/splendorgg/output/snake.svg" alt="Snake animation" />
-
-###
