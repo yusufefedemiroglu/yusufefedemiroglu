@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src=["https://media0.giphy.com/media/jfHRfhqipdl3ybvRn8/200w.gif?cid=6c09b952a339dzdhkgz5pax26xp6yrps9g9cx9scr3zri9db&ep=v1_gifs_search&rid=200w.gif&ct=g](https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif)"  />
+<img align="right" height="150" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif"  />
 
 ###
 
