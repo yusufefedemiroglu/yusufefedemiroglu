@@ -1,4 +1,4 @@
-<h2 align="left">.Net Developer</h2>
+<h2 align="left">Developer</h2>
 
 ###
 
